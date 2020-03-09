@@ -1,0 +1,19 @@
+{
+  "name": "shopping-list",
+  "version": "1.0.0",
+  "description": "Its all in the name.",
+  "main": "DomEvents.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevindev10/Shopping-List.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevindev10/Shopping-List/issues"
+  },
+  "homepage": "https://github.com/kevindev10/Shopping-List#readme"
+}
